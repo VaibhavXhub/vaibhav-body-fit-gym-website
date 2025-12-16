@@ -1,24 +1,28 @@
-# vaibhav-body-fit-gym-website
 # BodyFit Gym Website 💪
 
 A modern, responsive gym website built using HTML, CSS, JavaScript and Bootstrap.
 
-## Features
-- Responsive design
-- Dark / Light mode
-- Modern UI with animations
-- Pricing & Contact pages
-- Call-to-action buttons
-- Deployed on Netlify & GitHub Pages
-
-## Live Demo
+## 🚀 Live Demo
 https://vaibhav-gym-website.netlify.app
 
-## Tech Stack
+## ✨ Features
+- Responsive design for all devices
+- Dark / Light mode
+- Smooth animations & transitions
+- Pricing & Contact sections
+- Call-to-action buttons
+- Modern UI
+
+## 🛠 Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 
-## Author
+## 📌 Future Improvements
+- Backend integration
+- Database for user authentication
+- Admin dashboard
+
+## 👤 Author
 Vaibhav Singh
